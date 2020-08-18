@@ -1,0 +1,16 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/mnt/d/cpms/frontend/src/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_25fa1aed"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/mnt/d/cpms/frontend/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e47fee5a"
+  }
+]
