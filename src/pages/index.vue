@@ -7,7 +7,7 @@
       </h1>
       <div class="links">
         <nuxt-link to="/login">
-          Login
+          Logins
         </nuxt-link>
       </div>
     </div>
